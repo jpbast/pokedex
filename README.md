@@ -2,8 +2,8 @@
 
 Here you can know better the Pokémons you like!
 
-You can visit [https://pokemon-jpbast.vercel.app](https://pokemon-jpbast.vercel.app) for checking it
-on production
+You can visit [https://jpbast-pokedex.vercel.app/](https://jpbast-pokedex.vercel.app/) for checking
+it on production
 
 <p>
   <img style="flex:1" src="https://res.cloudinary.com/jpbast/image/upload/v1713997903/Personal/d84a91e7-f268-44c0-b95a-3acb35785975.png" style="width:80%" />
